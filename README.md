@@ -27,7 +27,7 @@ Oh, sure, there's [repeat](https://github.com/drobertadams/todo.txt-cli-addons/t
 
 * ice_recur is a ruby file with three requires 'ice_cube','optimist' and 'fileutils', and I have no need of Ruby and no knowledge of it.
 
-* recur is a perl script, assuming it's the right one.  The link for it [todo.txt wiki](https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory#recur-intelligently-add-recurring-tasks-todosh-ls1-some-task2-some-other-task3-a-third-task--2013-06-11-3-of-3-tasks-shown) is called todo.txt-recurring-tasks, and the wiki project page tells you to use the command 'bump', but the word bump does no appear in the [code](https://github.com/paulroub/todo.txt-recurring-tasks/blob/master/recur), and after installing it trying to tell todo.txt to bump a task returns the todo.txt usage message.
+* recur is a perl script, assuming it's the right one.  The link for it in the [todo.txt wiki](https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory#recur-intelligently-add-recurring-tasks-todosh-ls1-some-task2-some-other-task3-a-third-task--2013-06-11-3-of-3-tasks-shown) is called todo.txt-recurring-tasks, and the wiki project page tells you to use the command 'bump', but the word bump does no appear in the [code](https://github.com/paulroub/todo.txt-recurring-tasks/blob/master/recur), and after installing it trying to tell todo.txt to bump a task returns the todo.txt usage message.
 
 ![recur](https://user-images.githubusercontent.com/3229592/124200425-51b0d580-daa3-11eb-826b-bc6dc3bc21ca.png)
 
