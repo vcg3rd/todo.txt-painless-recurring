@@ -29,6 +29,9 @@ Oh, sure, there's [repeat](https://github.com/drobertadams/todo.txt-cli-addons/t
 
 * recur is a perl script, assuming it's the right one.  The link for it [todo.txt wiki](https://github.com/todotxt/todo.txt-cli/wiki/Todo.sh-Add-on-Directory#recur-intelligently-add-recurring-tasks-todosh-ls1-some-task2-some-other-task3-a-third-task--2013-06-11-3-of-3-tasks-shown) is called todo.txt-recurring-tasks, and the wiki project page tells you to use the command 'bump', but the word bump does no appear in the [code](https://github.com/paulroub/todo.txt-recurring-tasks/blob/master/recur), and after installing it trying to tell todo.txt to bump a task returns the todo.txt usage message.
 
+![recur](https://user-images.githubusercontent.com/3229592/124200425-51b0d580-daa3-11eb-826b-bc6dc3bc21ca.png)
+
+
 * repeat has a Readme file that only says "An addon command for todo.txt-cli that marks an item done and immediately re-enters it," and it is only useful for scheduled tasks which I don't use.
 
 * recur and ice_recur require a second file to sit in the same directory, and all three are 5-10 years old.  Maybe that's OK for a bash script but todo.txt itself's latest version is 08/2020.
