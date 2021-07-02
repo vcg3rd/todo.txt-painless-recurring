@@ -68,7 +68,7 @@ I don't see any reason scheduling can't be done entirely with project and tags. 
 
 ![todo2](https://user-images.githubusercontent.com/3229592/124203510-e1a64d80-daaa-11eb-9f65-0f23cb0fd4f1.png)
 
-So it's Wed the 15th, and you get to work and want to see what's due:
+So it's Wed the 15th, and you get to work and want to see what's due that is scheduled for that day:
 
 ```
 t ls +monthly @15
