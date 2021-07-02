@@ -17,7 +17,7 @@ I have been using Linux since 1999 because it is secure, stable, modifiable, con
 
 ## Enter Todo.txt (one example of many)
 
-Because I like plaintext, I use Todo.txt.  Because I like the command line I use Todo.txt.  Because I can't so much as write a bash script, I can't do more than the most basic stuff, which is actually 90% sufficient.  I don't need complicated todo management like some people.  Hardly any task I have is complex or needs to be broken down or scheduled.  I use Emacs + Org-mode for a lot of writing, but I hardly use the agenda at all.  Todo.txt plus Remind meet 90% of my needs. Tasks in the former; events, appointments, birthdays, etc. in the latter.
+Because I like plaintext, I use Todo.txt.  Because I like the command line I use Todo.txt.  Because I can't so much as write a bash script, I can't do more than the most basic stuff, which is actually 90% sufficient.  I don't need complicated todo management like some people.  Hardly any task I have is complex or needs to be broken down or scheduled for a specific date.  I use Emacs + Org-mode for a lot of writing, but I hardly use the agenda at all.  Todo.txt plus Remind meet 90% of my needs. Tasks in the former; events, appointments, birthdays, etc. in the latter.
 
 My todo.txt file is really basic.  I picked todo.txt because it is plaintext, is easily used from the command line, isn't as complicated as taskwarrior, and has mobile apps.  The only time I need mobile is to add something when I am out or to shop.  Some items I keep on it like "milk" @shopping.  The one feature I want but can not get to work is recurring tasks, something a proprietary, subscription app implements effortlessly. Like in this example: 
 
@@ -32,7 +32,7 @@ Oh, sure, there's [repeat](https://github.com/drobertadams/todo.txt-cli-addons/t
 ![recur](https://user-images.githubusercontent.com/3229592/124200425-51b0d580-daa3-11eb-826b-bc6dc3bc21ca.png)
 
 
-* repeat has a Readme file that only says "An addon command for todo.txt-cli that marks an item done and immediately re-enters it," and it is only useful for scheduled tasks which I don't use.
+* repeat has a Readme file that only says "An addon command for todo.txt-cli that marks an item done and immediately re-enters it," and it is only useful for date-scheduled tasks which I don't use.
 
 * recur and ice_recur require a second file to sit in the same directory, and all three are 5-10 years old.  Maybe that's OK for a Ruby and Perl script but todo.txt itself's latest version is 08/2020.
 
