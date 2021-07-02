@@ -4,7 +4,9 @@ README
 # Recurring Tasks for Todo.txt for Normal People
 
 **tl:dl**.
-Who needs an add-on script? Just uses aliases!
+Who needs an add-on script? Just uses aliases! 
+"Jummp to implementation":#my-solution
+
 Caveat: If your primary tool for todo.txt is a web, desktop, or mobile app you probably won't find this helpful, but if it's todo.txt-cli, I hope it will.
 
 ## Background
@@ -37,7 +39,7 @@ Oh, sure, there's [repeat](https://github.com/drobertadams/todo.txt-cli-addons/t
 
 * recur and ice_recur require a second file to sit in the same directory, and all three are 5-10 years old.  Maybe that's OK for a Ruby and Perl script but todo.txt itself's latest version is 08/2020.
 
-## My Solution
+.h2(#my-solution). My Solution
 After coming back every year or so and trying to get any of them to work, and failing, I finally asked myself how would I implement this with what I have?  Well the only add-on I use is the original author's, Gina, [add and do](https://github.com/todotxt/todo.txt-cli/blob/addons/.todo.actions.d/addx).  With this add-on sitting in my .todo.actions.d directory, the answer was simple. I already have this in my .bashrc:
 
 ```
