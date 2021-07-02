@@ -55,7 +55,7 @@ alias ta="t archive"
 ## How it Works
 1. You put recurring tasks in your todo.txt file.
 2. You tag them how you want them to recur @daily, @mon, @weekly, @monthly
-3. You do ls @daily
+3. You do t ls @daily
 4. You see Oh...I need to scoop the litter.  Have I?
 5. If yes you type tx "scoop litter".  Now a new entry is created with a x in front of it and the original entry is left alone.
 6. Now, type ta and that, and any other done tasks, get archived.  Scoop litter is now in done.txt and yet it's still in todo.txt.
