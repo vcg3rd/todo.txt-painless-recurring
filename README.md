@@ -91,7 +91,7 @@ And calling client X gets timestamped and added to done.txt and remains on your 
 Want to see your upcoming weeklies for the next two days:
 
 ```
-t ls +weekly @16 @17
+t ls +weekly @thur @fri
 ```
 At the first of the month, you want a printed file to put in your planner of just scheduled tasks?
 
