@@ -5,7 +5,8 @@ README
 
 **tl:dl**.
 Who needs an add-on script? Just uses aliases! 
-"Jummp to implementation":#my-solution
+
+"Jump to implementation":#my-solution
 
 Caveat: If your primary tool for todo.txt is a web, desktop, or mobile app you probably won't find this helpful, but if it's todo.txt-cli, I hope it will.
 
