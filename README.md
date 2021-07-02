@@ -99,4 +99,4 @@ At the first of the month, you want a printed file to put in your planner of jus
 t ls +scheduled +Jun > juneschedule.txt
 ```
 
-The possibilities are nearly limitless, all without at clone, install, extra script on your drive, worrying about add-ons not working in the future.  If you use a moble app you can sort just as easily.
+The possibilities are nearly limitless, all without cloning, an install, an extra script on your drive, worrying about add-ons not working in the future.  If you use a moble app you can sort just as easily.
