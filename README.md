@@ -6,7 +6,7 @@ README
 **tl:dl**.
 Who needs an add-on script? Just uses aliases! Caveat: If your primary tool for todo.txt is a web, desktop, or mobile app you probably won't find this helpful, but if it's todo.txt-cli, I hope it will.
 
-[Jump to My Soultion](##My Solution)
+[Jump to My Solution](#my-solution)
 
 ## Background
 I am not a coder, developer, or programmer, but I am a hacker (read: tinkerer) who loves Linux, plaintext, and the command line.  I don't think I'm alone, but based on the documentation of open source projects one must wonder. Open source history in a nutshell is: share your code in case others find it useful; share your improvements.  The key here is Stallman's idea that "knowledge should be shared with other people who can benefit from it, and that important resources should be utilized rather than wasted."  Hackers didn't invent this.  Toolmakers did.  This isn't a new idea.  Make something that can benefit your family or clan or tribe and share it.  If they improve it, they share those improvements. The only thing the so-called Hacker Ethos did was apply sharing knowledge and applying standardization globally to software.
