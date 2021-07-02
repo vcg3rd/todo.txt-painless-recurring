@@ -60,3 +60,10 @@ alias ta="t archive"
 5. If yes you type tx "scoop litter".  Now a new entry is created with a x in front of it and the original entry is left alone.
 6. Now, type ta and that, and any other done tasks, get archived.  Scoop litter is now in done.txt and yet it's still in todo.txt.
 7. Finally I have a cron job for a script that is run at 11:59 on the last day of the month that renames done.txt to done_%Y%m.txt and then touches done.txt.
+
+## Other uses
+But, you say: "I have things that recur on specific dates, like the 15th."
+
+I don't see any reason scheduling can't be done entirely with project and tags.  Eg:
+
+
