@@ -6,7 +6,7 @@ README
 **tl:dl**.
 Who needs an add-on script? Just uses aliases! Caveat: If your primary tool for todo.txt is a web, desktop, or mobile app you probably won't find this helpful, but if it's todo.txt-cli, I hope it will.
 
-** "Jump to implementation":#my-solution
+[Jump to My Soultion](##My Solution)
 
 ## Background
 I am not a coder, developer, or programmer, but I am a hacker (read: tinkerer) who loves Linux, plaintext, and the command line.  I don't think I'm alone, but based on the documentation of open source projects one must wonder. Open source history in a nutshell is: share your code in case others find it useful; share your improvements.  The key here is Stallman's idea that "knowledge should be shared with other people who can benefit from it, and that important resources should be utilized rather than wasted."  Hackers didn't invent this.  Toolmakers did.  This isn't a new idea.  Make something that can benefit your family or clan or tribe and share it.  If they improve it, they share those improvements. The only thing the so-called Hacker Ethos did was apply sharing knowledge and applying standardization globally to software.
@@ -38,7 +38,7 @@ Oh, sure, there's [repeat](https://github.com/drobertadams/todo.txt-cli-addons/t
 
 * recur and ice_recur require a second file to sit in the same directory, and all three are 5-10 years old.  Maybe that's OK for a Ruby and Perl script but todo.txt itself's latest version is 08/2020.
 
-h2(#my-solution). My Solution
+## My Solution
 
 After coming back every year or so and trying to get any of them to work, and failing, I finally asked myself how would I implement this with what I have?  Well the only add-on I use is the original author's, Gina, [add and do](https://github.com/todotxt/todo.txt-cli/blob/addons/.todo.actions.d/addx).  With this add-on sitting in my .todo.actions.d directory, the answer was simple. I already have this in my .bashrc:
 
