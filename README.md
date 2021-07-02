@@ -66,4 +66,37 @@ But, you say: "I have things that recur on specific dates, like the 15th."
 
 I don't see any reason scheduling can't be done entirely with project and tags.  Eg:
 
+![todo2](https://user-images.githubusercontent.com/3229592/124203510-e1a64d80-daaa-11eb-9f65-0f23cb0fd4f1.png)
 
+So it's Wed the 15th, and you get to work and want to see what's due:
+
+```
+t ls +monthly @15
+```
+
+It's June and you want an overview of the month for scheduled tasks only
+
+```
+t ls +scheduled +june
+```
+
+Not all of these are recurring, but with projects and tags you could still manage both.  After you "Call client X" you:
+
+```
+tx "Call client X"
+ta
+```
+And calling client X gets timestamped and added to done.txt and remains on your list.
+
+Want to see your upcoming weeklies for the next two days:
+
+```
+ts +weekly @16 @17
+```
+At the first of the month, you want a printed file to put in your planner of just scheduled tasks?
+
+```
+t ls +scheduled +Jun > juneschedule.txt
+```
+
+The possibilities are nearly limitless, all without at clone, install, extra script on your drive, worrying about add-ons not working in the future.  If you use a moble app you can sort just as easily.
